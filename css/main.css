@@ -88,10 +88,10 @@ a{
     text-decoration: none; 
 }
 a.start:hover{
-    background-color:#ff002da3;
+    background-color: #ffffff81;
 }
 a.start:active {
-  background: #c00729a3;
+  background:  #ffffff67;
 }
 .menu-flex{
     box-sizing: inherit;
